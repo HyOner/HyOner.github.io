@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小白的记事本</title>
   
-  <subtitle>随遇随想</subtitle>
+  <subtitle>随想随记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hyoner.github.io/"/>
