@@ -424,6 +424,15 @@ a:hover {
   text-decoration: none;
   border-bottom: solid transparent 2px; }
 
+#busuanzi_value_site_pv:hover,
+#busuanzi_value_site_uv:hover,
+#busuanzi_value_page_pv:hover {
+  color: #2e405b !important;
+  background-color: #ffffff;
+  text-decoration: none;
+  border-bottom: solid transparent 2px;
+  cursor: default; }
+
 a:focus {
   text-decoration: none;
   color: #b3b3b3; }
